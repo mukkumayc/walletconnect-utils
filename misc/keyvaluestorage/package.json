@@ -1,5 +1,5 @@
 {
-  "name": "@walletconnect/keyvaluestorage",
+  "name": "@sk9078/keyvaluestorage",
   "description": "Isomorphic Key-Value Storage",
   "version": "1.0.2",
   "author": "WalletConnect, Inc. <walletconnect.com>",
